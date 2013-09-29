@@ -1,5 +1,6 @@
 ## ------------------------------------------------------------------------------------------------
 ## knn cross-validation assignment
+## Its a simple wrapper function on what we did in knn class
 ##
 ##   - implement cross-validation for kNN
 ##   - measure the training, test and cross-validation error as a function of k on the iris dataset
